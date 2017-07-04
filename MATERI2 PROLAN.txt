@@ -1,0 +1,82 @@
+PEMROGRAMAN LANJUT
+
+MINGGU	  | MATERI	  | PENJELASAN		|
+__________|_______________|_____________________|
+	  |	 	  |- PERKENALAN JAVA	|
+I	  |PENDAHULUAN	  |- MEMBUAT PROGRAM 	|
+	  |		  |  HELLO WORLD	|
+	  |		  |- CARA MENCOMPILE DGN|
+	  |		  |  JVM		|
+__________|_______________|_____________________|
+	  |		  |- INPUT & OUTPUT	|
+II	  |KONSEP DASAR   |- MEMBEDAKAN PRINT & |
+	  |OOP		  |  PRINTLN		|
+	  |		  |- MENGGUNAKAN METHOD |
+	  |		  |  SCANNER		|
+	  |		  |- KONSEP DASAR OOP	|
+__________|_______________|_____________________|
+	  |		  |-PENJELASAN MENGENAI |
+III	  |KELAS & OBJEK  | KELAS DAN OBJEK     |
+	  |		  |-MEMBUAT KELAS & 	|
+	  |		  | OBJEK		|
+__________|_______________|_____________________|
+	  |		  |-PENJELASAN MENGENAI |
+IV	  |KONSTRUKTOR,	  | METHOD, KONSTRUKTOR,|
+	  |THIS, METHOD,  | DAN "THIS"		|
+	  |DAN ATRIBUT	  |-MEMBUAT KELAS       |
+	  |		  | DENGAN KONSTRUKTOR  |
+	  |		  | & "THIS		|
+	  |		  |-MEMPELAJARI MENGENAI|
+	  |		  | OPERATOR		|
+__________|_______________|_____________________|
+	  |		  |-PENJELASAN MENGENAI |
+V	  |INHERITANCE	  | INHERITANCE		|
+	  |	  	  |-PENGGUNAAN "SUPER"  |
+	  |		  |-MEMBUAT PROGRAM     |
+	  |		  | UNTUK MENCARI NILAI |
+	  |		  | MIN & MAX		|
+__________|_______________|_____________________|
+	  |		  |-PENJELASAN MENGENAI |
+VI	  |OVERRIDE	  | OVERRIDE		|
+	  |		  |-CARA MEMODIFIKASI   |
+	  |		  | KONSTRUKTOR		|
+__________|_______________|_____________________|
+	  |		  |-PENJELASAN MENGENAI |
+VII	  |POLIMORFISME   | POLIMORFISME	|
+	  |		  |			|
+__________|_______________|_____________________|
+	  |		  |			|
+VIII	  |UTS		  |			|
+	  |		  |			|
+__________|_______________|_____________________|
+	  |		  |-PENJELASAN MENGENAI |
+IX	  |KELAS ABSTRAK  | KELAS ABSTRAK	|
+	  |		  |-MEMBUAT KELAS ABSTRAK
+__________|_______________|_____________________|
+	  |		  |-PENJELASAN MENGENAI |
+X	  |ENKAPSULASI	  | ENKAPSULASI		|
+	  |		  |-MEMBUAT METHOD 	|
+	  |		  | GETTER & SETTER 	|
+__________|_______________|_____________________|
+	  |		  |-PENJELASAN MENGENAI |
+XI	  |INTERFACE	  | INTERFACE		|
+	  |		  |-PERBEDAAN KELAS &   |
+	  |		  | INTERFACE		|
+	  |		  |-MEMBUAT INTERFACE   |
+__________|_______________|_____________________|
+	  |	  	  |-PENJELASAN MENGENAI |
+XII	  |GENERIC CLASS  | GENERIC CLASS	|
+	  |		  |-MEMBUAT GENERIC 	|
+	  |		  | CLASS		|
+__________|_______________|_____________________|
+	  |		  |-PENJELASAN MENGENAI |
+XIII	  |GENERIC METHOD | GENERIC CLASS DENGAN|
+	  |		  | DUA TIPE		|
+	  |		  |-PENJELASAN MENGENAI |
+	  |		  | GENERIC METHOD	|
+__________|_______________|_____________________|
+	  |		  |-PENJELASAN MENGENAI |
+XIV	  |PACKAGE  	  | PACKAGE		|
+	  |		  |-CARA MEMBUAT PACKAGE|
+	  |		  |-MEMBUAT PACKAGE	|
+__________|_______________|_____________________|
